@@ -6,7 +6,7 @@ public class FactorialTest {
     @Test
     public void testFactorialForZeroOne(){
         assertEquals(1,Factorial.factorialOfNumber(0));
-        assertEquals(1,Factorial.factorialOfNgitumber(1));
+        assertEquals(1,Factorial.factorialOfNumber(1));
     }
 
     @Test

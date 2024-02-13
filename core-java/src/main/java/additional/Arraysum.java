@@ -11,7 +11,7 @@ public class Arraysum {
             int sum=0;
             for (int j : array) {
                 sum += j;
-g            }
+        }
             System.out.println("Sum of the array elements: " + sum);
         }
 
